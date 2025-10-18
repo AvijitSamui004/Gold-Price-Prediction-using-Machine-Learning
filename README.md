@@ -37,7 +37,7 @@ The dataset used contains information such as:
 - SLV (Silver ETF price)  
 - EUR/USD exchange rate
 
-📁 Dataset Link: https://github.com/Priyaranjan25/Gold-Price-Prediction-using-Machine-Learning/blob/main/gold_price_data.csv
+📁 Dataset Link: https://github.com/AvijitSamui004/Gold-Price-Prediction-using-Machine-Learning/blob/main/gold_price_data.csv
 
 ---
 
